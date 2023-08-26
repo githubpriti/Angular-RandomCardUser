@@ -1,6 +1,6 @@
 # Angular-TicTacToe:
 
-[Live link]()
+[Live link](https://angular-random-card-user.vercel.app/)
 
 ## Name:Vaishnavi Jaju
 
